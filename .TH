@@ -1,5 +1,4 @@
-"0x11" "_printf man page"
-.SH NAME
+H NAME
 _printf - print data and format
 .SH SYNOPSIS
 .B printf FORMAT [ARGUMENT]...
@@ -31,4 +30,5 @@ In the Example print the value of text with %s give the format of text.
 .SH SEE ALSO
 .I printf (3)
 .SH AUTHOR
-Obiora Chukwuebuka & Anigbogu Mesoma
+Camilo Baquero www.camilob.com
+Camilo Bayona www.camilobayona.com
